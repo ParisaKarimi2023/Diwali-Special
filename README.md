@@ -1,2 +1,2 @@
 # Diwali-Special
-Diwali Special Game
+Diwali, also known as Deepavali, is one of the most important and widely celebrated festivals in India and among Indian communities around the world. Known as the Festival of Lights, Diwali symbolizes the victory of light over darkness, good over evil, and knowledge over ignorance. This report discusses the cultural, historical, social, and economic significance of Diwali, as well as the traditions and values associated with this special festival.
