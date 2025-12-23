@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Diwali Game</title>
+   
+    <!--Google Font-->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+    <!--Stylesheet-->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Diwali Special</h1>
+        <div class="scores">
+            <p>Computer : 
+                <span id="computer_score">0</span>
+            </p>
+            <p>
+                You :
+                <span id="user_score">0</span>
+            </p>
+        </div>
+        <div class="weapons">
+            <button onclick="checker('Anar')">
+                <img src="./1.png" alt="" style="margin-left: 8px;"  >
+            </button>
+            <button onclick="checker('Suthli')">
+                <img src="./2.png" alt="" style="margin-top: 8px;" >
+                 </button>
+            <button onclick="checker('Rocket')">
+                <img src="./3.png" alt="" style="margin-top: 8px;" >
+            </button>
+        </div>
+        <div class="details">
+            <p id="user_choice"></p>
+            <p id="comp_choice"></p>
+            <p id="result"></p>
+        </div>
+    </div>
+
+
+    <!--Script-->
+    <script src="script.js"></script>
+</body>
+</html>
